@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DolunayAcar and graduate student in Mechatronics Engineering MSc program at ITU, Istanbul.
-- 👀 I’m interested in autonomous driving: HD Maps, Localization, Autoware, LGSVL, EV, Phyton, C, C++, MATLAB, Machine Learning, Linux.
-- 🌱 I’m currently working on Data Science.
+- 👀 I’m interested in autonomous driving:Autoware, CARLA, EV, AV, Phyton, C++, MATLAB, Machine Learning, Deep Learning, Ubuntu.
+- 🌱 I’m currently working on Data Science for Autonomous Driving Systems.
 - 📫 How to reach me: dogacanacar@gmail.com
 
 <!---
